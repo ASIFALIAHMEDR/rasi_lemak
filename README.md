@@ -17,4 +17,5 @@ Spoiler alert: It’s probably the latter. 🙃
 ## 🚀 Getting Started (It's Easy, Promise)
 
 1. **Clone the repo**: Because it’s Python, and you probably know how to do that already.
-   ```bash git clone https://github.com/ASIFALIAHMEDR/rasi_lemak.git
+   ```bash
+git clone https://github.com/ASIFALIAHMEDR/rasi_lemak.git
